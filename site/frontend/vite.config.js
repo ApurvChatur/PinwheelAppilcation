@@ -12,8 +12,8 @@ export default defineConfig({
         "name":"Pinwheel Organisation",
         "short_name":"Pinwheel",
         "display": "standalone",
-        "background_color": "#071952",
-        "theme_color": "#071952",
+        "background_color": "#4831D4",
+        "theme_color": "#4831D4",
         "icons":[
           {
             src: "Business/Pinwheel/favicon_io/android-chrome-512x512.png",

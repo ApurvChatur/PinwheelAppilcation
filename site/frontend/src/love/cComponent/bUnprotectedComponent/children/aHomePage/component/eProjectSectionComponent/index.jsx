@@ -7,7 +7,7 @@ import FinalRouteName from "@/love/gRoute/FinalRouteName";
 
 
 function ProjectSectionComponent({ Redux }) {
-  const [activeProjectGroup, setActiveProjectGroup] = useState("Acrux Enterprise")
+  const [activeProjectGroup, setActiveProjectGroup] = useState("Pinwheel Organisation")
 
   return (
     Redux.state.ReceivedObject?.Retrieve?.ProjectSectionRetrieve &&  
